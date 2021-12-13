@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
     int r_size;
     int ret_size;
     if(argc > 1){
-        r_size = atoi(argv[1]);
+        r_size = atoi(argv[1]);//atoi: 把参数指向的字符串转换为一个int型整数，比如“98”转成98
     } else{
         r_size = 10;
     }

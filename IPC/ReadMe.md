@@ -4,3 +4,5 @@
 > **随文件系统持续**：IPC一直持续到显示删除该对象为止。
 
 
+关于共享内存：https://cloud.tencent.com/developer/article/1551288 
+
